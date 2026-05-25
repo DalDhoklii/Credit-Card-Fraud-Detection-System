@@ -1,7 +1,7 @@
 # 💳 Swipe Shield – Credit Card Fraud Detection System
 
 🚀 **June 2025 – July 2025**  
-🔗 [GitHub](https://github.com/chiragmiyy/Credit-Card-Fraud-Detection-System) | [WebApp](https://credit-card-fraud-detection-system-chiragmiyy.streamlit.app)  
+🔗 [GitHub](https://github.com/DalDhoklii/Credit-Card-Fraud-Detection-System) | [WebApp](https://credit-card-fraud-detection-system-daldhoklii.streamlit.app)  
 📌 *Machine Learning · Python · Scikit-learn · Streamlit · Pandas*
 
 ---
